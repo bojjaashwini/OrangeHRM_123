@@ -8,5 +8,5 @@ public class testcases1
 	{
 		System.out.println("This is testcases1");
 	}
-	
+	 
 }
